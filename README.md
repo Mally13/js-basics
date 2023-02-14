@@ -11,6 +11,7 @@
 - 1997
 
 **4. How do you log to the console?**
+- Using the console.log() function. For example
 ```
 console.log('Hello World');
 ```
