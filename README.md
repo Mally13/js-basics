@@ -1,5 +1,5 @@
 **1. What runs Javascript outside the browser?**
-Node
+- Node
 
 **2. Name 5 things Javascript can do**
 - Change HTML content
@@ -8,10 +8,12 @@ Node
 - Hide or show elements
 
 **3. When was ECMAScript first released ?**
-1997
+- 1997
 
 **4. How do you log to the console?**
+```
 console.log('Hello World');
+```
 
 
 **5. List the tech fields that use JavaScript, for example FrontEnd**
@@ -30,10 +32,8 @@ console.log('Hello World');
 |  -Variable assignments cannot be changed| -Variable assignments can be changed |
 |  -Type checking is completed at compite time hence errors are detected earlier| -Typechecking is done during runtime hence errors are detected later during |
 |  -Produces more optimized code| -Produces less optimized code as there can be runtime errors |
-| ----------- | ----------- |
-| Languages examples |
-|C, C++, Kotlin, C#, Go, Java| Javascript, Python, PHP, Ruby, Perl, Tcl |
+| Languages examples- C, C++, Kotlin, C#, Go, Java|  Languages examples- Javascript, Python, PHP, Ruby, Perl, Tcl |
 
 
 **7. Differentiate between the JavaScript data types ‘null’ and ‘undefined’**
-**null** is an object that can be assigned to a variable to represent no value while **undefined** is a type that indicates that a variable has been declared but has not been assigned a value.
+- **null** is an object that can be assigned to a variable to represent no value while **undefined** is a type that indicates that a variable has been declared but has not been assigned a value.
