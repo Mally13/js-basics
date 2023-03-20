@@ -1,6 +1,6 @@
 //multiplication
 function multiply(a,b){
-    c = a * b;
+    let c = a * b;
     return c;
 }
 console.log(multiply(13,14))
